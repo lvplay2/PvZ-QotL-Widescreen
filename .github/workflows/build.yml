@@ -23,7 +23,7 @@ jobs:
     - name: Upload Artifact
       uses: actions/upload-artifact@main
       with:
-        name: PvZ-QoTL-Widescreen-Build
+        name: PvZ-QotL-Widescreen-Build
         path: |
           Debug/
 
@@ -39,12 +39,12 @@ jobs:
 
     - uses: actions/download-artifact@main
       with:
-       name: PvZ-QoTL-Widescreen-Build
+       name: PvZ-QotL-Widescreen-Build
        path: Debug
 
     - name: Save build as zip
       run: |
-        zip -r PvZ-QoTL-Widescreen-Build.zip Debug/
+        zip -r PvZ-QotL-Widescreen-Build.zip Debug/
 
     - name: Upload Continuous Release
       env:
@@ -52,5 +52,5 @@ jobs:
         UPLOAD_KEY: ${{ secrets.UPLOAD_KEY }}
       run: |
         ./upload.sh \
-          PvZ-QoTL-Widescreen-Build.zip
+          PvZ-QotL-Widescreen-Build.zip
           
