@@ -129,7 +129,7 @@ LawnApp::LawnApp()
 	mProdName = "PlantsVsZombies";
 	mVersion = "v2.1";
 	mReconVersion = "PvZ: QotL " + mVersion;
-	std::string aTitleName = "Plants vs. Zombies: QoTL";
+	std::string aTitleName = "Plants vs. Zombies: Quality of the Lawn";
 	aTitleName += " " + mVersion;
 #ifdef _DEBUG
 	aTitleName += " DEBUG";
