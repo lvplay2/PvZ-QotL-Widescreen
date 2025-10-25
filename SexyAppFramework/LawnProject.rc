@@ -106,13 +106,13 @@ BEGIN
         BLOCK "040904b0"
         BEGIN
             VALUE "CompanyName", "PvZDecompAssociation"
-            VALUE "FileDescription", "Plants vs. Zombies: Quality of The Lawn (Widescreen)"
-            VALUE "FileVersion", "1.0.0.1"
+            VALUE "FileDescription", "Plants vs. Zombies: Quality of the Lawn (Widescreen)"
+            VALUE "FileVersion", "2.1"
             VALUE "InternalName", "LawnProj.exe"
             VALUE "LegalCopyright", "Copyright (C) 2024"
             VALUE "OriginalFilename", "LawnProj.exe"
-            VALUE "ProductName", "PvZ QoTL (Widescreen)"
-            VALUE "ProductVersion", "1.0.0.1"
+            VALUE "ProductName", "PvZ QotL (Widescreen)"
+            VALUE "ProductVersion", "2.1"
         END
     END
     BLOCK "VarFileInfo"
