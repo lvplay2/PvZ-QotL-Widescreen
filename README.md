@@ -1,4 +1,4 @@
-# Plants vs. Zombies: Quality of The Lawn (Widescreen)
+# Plants vs. Zombies: Quality of the Lawn (Widescreen)
 An edit of the Plants vs. Zombies decompilation that adds Quality of Life features. (Widescreen)
 
 # Credits
