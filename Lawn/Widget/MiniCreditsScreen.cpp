@@ -61,14 +61,14 @@ void MiniCreditsScreen::Draw(Graphics* g)
 	TodDrawString(g, "Insert Name\n", 400, 180, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "Insert Name\n", 400, 200, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 
-	TodDrawString(g, "Plants Vs. Zombies Team \n", 120, 420, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
+	TodDrawString(g, "Plants vs. Zombies Team \n", 120, 420, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "George Fan\n", 120, 440, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "Rich Werner\n", 120, 460, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "Stephen Notley\n", 120, 480, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "Laura Shigihara", 120, 500, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "Tod Semple", 120, 520, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 
-	TodDrawString(g, "Quality of The Lawn Team \n", 400, 380, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
+	TodDrawString(g, "Quality of the Lawn Team \n", 400, 380, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "Electr0Gunner\n", 400, 400, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 	TodDrawString(g, "BULLETBOT\n", 400, 420, Sexy::FONT_HOUSEOFTERROR16, TextColor, DS_ALIGN_CENTER);
 
