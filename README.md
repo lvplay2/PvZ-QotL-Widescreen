@@ -12,4 +12,4 @@ An edit of the Plants vs. Zombies decompilation that adds Quality of Life featur
 Open the solution file "PlantsVsZombies.sln" with Visual Studio and compile from there.
 
 #### Build Tools for Visual Studio (MSBuild)
-Go to the root directory of this project and run ``` msbuild PlantsVsZombies.sln ```.
+Go to the root directory of this project and run ``` msbuild PlantsVsZombies.sln /p:Configuration=Debug /p:Platform=x86 ```.
